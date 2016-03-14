@@ -1,0 +1,22 @@
+{
+  "name": "notelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsamuMORIMOTO/NoteListMove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsamuMORIMOTO/NoteListMove/issues"
+  },
+  "homepage": "https://github.com/OsamuMORIMOTO/NoteListMove#readme",
+  "dependencies": {
+    "remarkable": "^1.6.2"
+  }
+}
