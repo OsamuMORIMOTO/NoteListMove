@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/OsamuMORIMOTO/NoteListMove#readme",
   "dependencies": {
+    "coffee-script": "^1.10.0",
+    "ect": "^0.5.9",
     "remarkable": "^1.6.2"
   }
 }
